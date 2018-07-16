@@ -1,0 +1,83 @@
+/* CSS Document */
+
+.footer {
+  /* position: absolute; */
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  margin-top: 300px;
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #e02941 !important ;
+}
+
+.bg-custom {
+	background-color:#e02941 !important;
+	color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+	}
+	
+.calltoaction {
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+.red {
+	color: #fff;
+	background-color: #e02941 !important;
+	border-color:#e02941 !important;
+}
+
+.table td, .table th {
+	text-align:center;
+	}
+	
+.stretched {
+	max-width: none;
+}
+
+
+
+#whatwedo {
+	text-align: center;
+    background: white;
+}
+
+#whatwedo .container h1 {
+    font-family: 'Dancing Script', Stalemate;
+    font-weight: 300;
+    font-size: 58px;
+    margin: 20px 0 40px;
+}
+
+
+#whatwedo i {
+    height: 200px;
+    width: 200px;
+    font-size: 190px;
+    padding: 5px;
+    border-radius: 10%;
+    color:#3e4249;
+}
+
+#whatwedo i:hover {
+    height: 200px;
+    width: 200px;
+    font-size: 190px;
+    padding: 5px;
+    border-radius: 10%;
+    color:#e02941 !important;
+    
+}
+
+.green {
+/*    color: #6a9b3d; */
+}
+
+.strong {
+    font-weight:bold;
+    border-bottom: solid 2px #dd5638;
+}
