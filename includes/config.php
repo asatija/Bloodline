@@ -5,9 +5,9 @@ session_start();
 date_default_timezone_set('Europe/London');
 //database credentials
 define('DBHOST','localhost');
-define('DBUSER','<Type Your own DB Username');
+define('DBUSER','<Type Your own DB Username>');
 define('DBPASS','<Your own DB Password>');
-define('DBNAME','<Your own DB Name');
+define('DBNAME','<Your own DB Name>');
 //application address
 define('DIR','http://domain.com/');
 define('SITEEMAIL','noreply@domain.com');
